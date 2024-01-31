@@ -23,4 +23,4 @@ for x in formattedData:
 
     uwu = uwu + wrappingPaper
 
-print(uwu) 
+print(uwu)
