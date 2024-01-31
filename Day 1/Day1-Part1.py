@@ -1,4 +1,4 @@
-with open("Day 1\input.txt") as f:
+with open("Day 1\part1-input.txt") as f:
     data = f.read()
 
 floor = 0
